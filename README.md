@@ -1,6 +1,6 @@
 # About Project 
-### Live Demo:.\
-https://projectmanagement-e812f.web.app/login
+### Live Demo:
+https://projectmanagement-e812f.web.app/login .\
 This project is created using Reactjs and firebase. It includes complete authentication with also image upload which user can upload for his/her profile while signing up. Once login the user can post a project for his/her employees the project can be created by going to /create route from the side dashboard on which the user has to fill the project details in the form. After posting a project users can communicate via comments to give follow up of their progress. The app also features an active users panel where one can see who user is login at the same time. React router is used to create Single-page application. Custom hooks are used for different features and contextAPI for state management accross the App
 
 
